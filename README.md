@@ -5,4 +5,4 @@
 ## Технологии
 - Python 3.13+
 - Библиотека: aiogram
-- БД: sqlalchemy + sqlite
+- БД: sqlalchemy + aiosqlite
