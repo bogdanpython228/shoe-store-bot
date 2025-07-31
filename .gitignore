@@ -1,1 +1,3 @@
 /.venv
+/app/core
+__pycache__
