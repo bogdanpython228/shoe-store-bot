@@ -25,7 +25,7 @@
 
 ### 1. Клонирование репозитория
 ```bash
-git clone https://github.com/ваш-репозиторий/shoe-store-bot.git
+git clone https://github.com/bogdanpython228/shoe-store-bot.git
 cd shoe-store-bot
 ```
 
