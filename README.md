@@ -29,6 +29,9 @@ git clone https://github.com/bogdanpython228/shoe-store-bot.git
 cd shoe-store-bot
 ```
 
+### 2. Создание БД
+#### Создайте в папке app папку storage
+
 ### 2. Настройка окружения
 #### Создайте в папке app папку core, а в папке core создайте файл config.py:
 ```ini
