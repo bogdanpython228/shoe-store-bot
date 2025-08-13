@@ -29,7 +29,10 @@ git clone https://github.com/bogdanpython228/shoe-store-bot.git
 cd shoe-store-bot
 ```
 
-### 2. Настройка окружения
+### 2. Создание БД
+#### Создайте в папке app папку storage
+
+### 3. Настройка окружения
 #### Создайте в папке app папку core, а в папке core создайте файл config.py:
 ```ini
 TOKEN='ваш_токен_бота'
@@ -37,12 +40,12 @@ ADMIN=ваш_телеграм_id
 DATABASE_URL='sqlite+aiosqlite:///app/storage/db.sqlite3'
 ```
 
-### 3. Установка зависимостей
+### 4. Установка зависимостей
 ```bash
 pip install -r requirements.txt
 ```
 
-### 4. Запуск бота
+### 5. Запуск бота
 ```bash
 python -m main.py
 ```
