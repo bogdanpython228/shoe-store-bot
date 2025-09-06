@@ -1,4 +1,3 @@
 /.venv
 /app/core
-/app/storage/db.sqlite3
 __pycache__
